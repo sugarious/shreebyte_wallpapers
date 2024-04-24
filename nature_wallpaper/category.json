@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "Sceneries",
+      "link": "wallpapers.json",
+      "media_url": "https://img.freepik.com/free-photo/beautiful-scenery-emerald-lake-yoho-national-park-british-columbia-canada_181624-6877.jpg"
+    },
+    {
+      "name": "Flowers",
+      "link": "flowers.json",
+      "media_url": "https://st5.depositphotos.com/35914836/64906/i/450/depositphotos_649066108-stock-photo-pink-flowers-park-spring-bloosom.jpg"
+    }
+  ]
+}
