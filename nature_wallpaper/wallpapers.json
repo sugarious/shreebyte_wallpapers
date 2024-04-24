@@ -1,0 +1,54 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "name": "Sunset Bliss",
+      "image": "https://img.freepik.com/premium-photo/there-is-lone-tree-hill-with-person-standing-it-generative-ai_958124-33469.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Starry Night",
+      "image": "https://img.freepik.com/free-photo/vivid-colored-transparent-autumn-leaf_23-2148239739.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mountain Majesty",
+      "image": "https://images.pexels.com/photos/5997863/pexels-photo-5997863.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Ocean Serenity",
+      "image": "https://i.pinimg.com/564x/5f/af/20/5faf20b02df31225261ef6a95d6a63c7.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Forest Retreat",
+      "image": "https://img.freepik.com/free-photo/gradient-iphone-wallpaper-oil-bubble-water-background_53876-176849.jpg"
+    },
+     {
+      "id": 6,
+      "name": "Sunset Bliss",
+      "image": "https://img.freepik.com/premium-photo/there-is-lone-tree-hill-with-person-standing-it-generative-ai_958124-33469.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Starry Night",
+      "image": "https://img.freepik.com/free-photo/vivid-colored-transparent-autumn-leaf_23-2148239739.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mountain Majesty",
+      "image": "https://images.pexels.com/photos/5997863/pexels-photo-5997863.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Ocean Serenity",
+      "image": "https://i.pinimg.com/564x/5f/af/20/5faf20b02df31225261ef6a95d6a63c7.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Forest Retreat",
+      "image": "https://img.freepik.com/free-photo/gradient-iphone-wallpaper-oil-bubble-water-background_53876-176849.jpg"
+    }
+  ]
+}
